@@ -4,7 +4,7 @@
 It's like an boiler plate for your Django application, feel free to use and commit any kind of abberations as a ** new ** application.
 
 ## Help
-To login use 'username' as testuser and 'password' as randomtesting123
+To login use `username` as testuser and `password` as randomtesting123
 
 Please make sure you dont put in anything hard-coded for redirect or views.
 
