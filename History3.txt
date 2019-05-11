@@ -1,0 +1,263 @@
+    1  python --version
+    2  python3 --version
+    3  sudo apt-get install virtualenv
+    4  sudo apt-get update 
+    5  ls
+    6  mkdir -p Work
+    7  ls
+    8  cd work/
+    9  cd Work/
+   10  ls
+   11  mkdir -p Django
+   12  cd Django/
+   13  virtualenv First_app
+   14  virtualenv -p python3 First_Ap
+   15  cd First_Ap/
+   16  ls
+   17  source bin/activate
+   18  pip freeze
+   19  pip install python3-django
+   20  pip install django
+   21  pip freeze
+   22  vim
+   23  sudo pip install vim
+   24  sudo apt-get update
+   25  sudo apt-get install vim
+   26  mkdir -p ~/.vim/autoload ~/.vim/bundle
+   27  curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+   28  sudo apt install curl
+   29  curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+   30  cd ~/.vim/bundle
+   31  git clone https://github.com/scrooloose/nerdtree.git
+   32  sudo apt install git
+   33  git clone https://github.com/scrooloose/nerdtree.git
+   34  cd ...
+   35  cd /...
+   36  cd .../
+   37  cd /
+   38  cd ~/
+   39  sudo pip install jedi-vim
+   40  sudo apt-get pip
+   41  sudo apt-get install pip
+   42  sudo apt-get install python-pip python-dev build-essential 
+   43  sudo pip install jedi-vim
+   44  pip install jedi-vim
+   45  pip install --user jedi
+   46  cd ~/.vim/bundle/
+   47  git clone https://github.com/davidhalter/jedi-vim.git
+   48  git clone git://github.com/aperezdc/vim-template.git
+   49  vim test.py
+   50  cd ~/
+   51  vim test.py
+   52  sudo apt-get update
+   53  sudo apt-get install sublime-text
+   54  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+   55  sudo apt-get install apt-transport-https
+   56  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+   57  sudo apt-get update
+   58  sudo apt-get install sublime-text
+   59  history
+   60  history >> History.txt
+   61  sublime
+   62  sudo apt-get update
+   63  sudo apt-get install g++
+   64  cd Work
+   65  md Alias
+   66  cd ~/Downloads
+   67  wget -O discord-0.0.1.deb https://discordapp.com/api/download?platform=linux&format=deb
+   68  uwr626rrgh0
+   69  wget -O discord-0.0.1.deb https://discordapp.com/api/download?platform=linux&format=deb
+   70  clr
+   71  wget -O discord-0.0.1.deb https://discordapp.com/api/download?platform=linux&format=deb
+   72  cd >/
+   73  cd .?
+   74  .?
+   75  sudo snap install discord
+   76  sudo apt install libconfig -2-4 libappindicator1
+   77  10.0.2.6
+   78  help
+   79  /help
+   80  .?
+   81  uname
+   82  uname -a
+   83  cd /home/xacrolyte/Work/Python ; env "PYTHONIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" /usr/bin/python3 /home/xacrolyte/.vscode/extensions/ms-python.python-2019.2.5433/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40545 /home/xacrolyte/Work/Python/hello.py 
+   84  /usr/bin/python3 /home/xacrolyte/Work/Python/hello.py
+   85  ls -l
+   86  cd work
+   87  cd Work/
+   88  ls -l
+   89  mkdir Python
+   90  ls -l
+   91  cd Python/
+   92  code
+   93  ls -l
+   94  code .
+   95  exit
+   96  cd "/home/xacrolyte/Work/Java/Maven"
+   97  mvn archetype:generate -DarchetypeArtifactId="archetype-quickstart-jdk8" -DarchetypeGroupId="com.github.ngeor"
+   98  /usr/bin/python3 -m pip install -U pylint --user
+   99  code
+  100  code .
+  101  ls
+  102  cd Downloads/
+  103  ls -a
+  104  sudo apt-get purge openjdk-\*
+  105  cd ..
+  106  cd ...
+  107  cd ..
+  108  cd..
+  109  cd home
+  110  cd ~/
+  111  sudo add-apt-repository ppa:webup8team/java
+  112  sudo add-apt-repository ppa:webupd8team/java
+  113  sudo apt-get update
+  114  sudo apt-get install oracle-java8-installer
+  115  sudo apt-get install oracle-java8-set-default
+  116  java -version
+  117  cat >> /etc/environtment <<EOL
+  118  JAVA_HOME=/usr/lib/jvm/java-8-oracle
+  119  JRE_HOME=/usr/lib/jvm/java-8-oracle/jre
+  120  EOL
+  121  sudo vi /etc/environment 
+  122  sudo source /etc/environment
+  123  sudo vi /etc/environment 
+  124  sudo source /etc/environment
+  125  pip
+  126  mal pip
+  127  man pip
+  128  easy_install pip
+  129  pip -v
+  130  pip --version
+  131  pip3 --version
+  132  pip3 -V
+  133  pip -V
+  134  python3 get-pip.py
+  135  --user
+  136  sudo python3 get-pip.py
+  137  eclipse
+  138  ls -a
+  139  \cd Downloads/
+  140  ls -a
+  141  tar xvzf eclipse-inst-linux64.tar.gz 
+  142  ls -a
+  143  cd eclipse-installer/
+  144  la -a
+  145  ./configure
+  146  cd ..
+  147  sudo tar xvzf eclipse-inst-linux64.tar.gz 
+  148  ls -a
+  149  cd eclipse-installer/
+  150  la -a
+  151  ./configure
+  152  ./configuration
+  153  readme
+  154  cat readme
+  155  cd readme
+  156  la -a
+  157  cd ..
+  158  la -a
+  159  cd configuration/
+  160  ./configure
+  161  cd ..
+  162  ls -a
+  163  cd Downloads/
+  164  la -a
+  165  ls -a 
+  166  sudo tar xvzf matlab_R2018b_glnxa64.zip
+  167  firefox
+  168  ls 0a
+  169  ls -a
+  170  cd Work/
+  171  ls -a
+  172  mkdir Shell
+  173  cd Shell/
+  174  cat > hellowrold.sh
+  175  chmod u+x hellowrold.sh
+  176  ./hellowrold.sh 
+  177  vi hellowrold.sh 
+  178  chmod u+x hellowrold.sh
+  179  ./hellowrold.sh 
+  180  vi hellowrold.sh 
+  181  ./hellowrold.sh 
+  182  vi hellowrold.sh 
+  183  pip install --upgrade pip
+  184  sudo pip install --upgrade pip
+  185  pip install jupyter
+  186  sudo pip install jupyter
+  187  jupyter notebook
+  188  firefox
+  189  python -m django --version
+  190  python3 -m django --version
+  191  java -v
+  192  java
+  193  java -version
+  194  eclipse
+  195  cd Home
+  196  cd eclipse
+  197  cd java-2018-12/
+  198  ls
+  199  cd eclipse/
+  200  ls
+  201  eclipse
+  202  cd ...
+  203  cd ..
+  204  ...
+  205  cd ..
+  206  ls
+  207  cd Work/
+  208  ls
+  209  cd Django/
+  210  django -version
+  211  ls
+  212  cd First_Ap/
+  213  ls
+  214  cd bin/
+  215  cd ..
+  216  source bin/activate
+  217  pip freeze
+  218  python -m django --version
+  219  django-admin
+  220  django-admin startproject django_project
+  221  ls
+  222  cd django_project/
+  223  tree
+  224  python manage.py runserver
+  225  python manage.py startapp blog
+  226  python manage.py runserver
+  227  history
+  228  history >> History2.txt
+  229  ls -a
+  230  cd Work/
+  231  ls
+  232  cd Django/
+  233  ls
+  234  cd First_Ap/
+  235  cd ls
+  236  ls
+  237  cd django_project/
+  238  ls
+  239  python manage.py runserver
+  240  cd ..
+  241  pip freeze
+  242  cd django_project/
+  243  python manage.py runserver
+  244  cd ..
+  245  source bin/activate
+  246  pip freeze
+  247  cd django_project/
+  248  python manage.py runserver
+  249  python manage.py createsuperuser
+  250  python manage.py makemigrations
+  251  python manage.py migrate
+  252  python manage.py createsuperuser
+  253  python manage.py runserver
+  254  python manage.py makemigrations
+  255  python manage.py sqlmigrate blog 0001
+  256  python manage.py migrate
+  257  python manage.py shell
+  258  python manage.py runserver
+  259  python manage.py startapp users
+  260  python manage.py runserver
+  261  pip install django-crispy-forms
+  262  python manage.py runserver
+  263  history >> History3.txt
